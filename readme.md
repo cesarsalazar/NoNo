@@ -1,4 +1,4 @@
-# NoNo: No Notifications
+# NoNo: No (More Google+) Notifications
 
 Hide that annoying Google+ notifications box. One ridiculous line of Javascript can save you hours.
 
