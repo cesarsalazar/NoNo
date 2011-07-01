@@ -1,6 +1,6 @@
 # NoNo: No Notifications
 
-Hide that annoying Google notifications box. One ridiculous line of Javascript can save you hours.
+Hide that annoying Google+ notifications box. One ridiculous line of Javascript can save you hours.
 
 ## This is a Google Chrome Extension
 
